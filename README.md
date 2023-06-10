@@ -1,2 +1,2 @@
-# if-else-statment
+# Programming C Exercise
 c language if-else  statement
